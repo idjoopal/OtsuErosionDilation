@@ -1,0 +1,5 @@
+﻿  CV_201211265View.cpp
+c:\users\idjoo\documents\visual studio 2015\projects\cv_201211265\cv_201211265\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\idjoo\documents\visual studio 2015\projects\cv_201211265\cv_201211265\cv_201211265view.cpp(306): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  CV_201211265.vcxproj -> C:\Users\idjoo\Documents\Visual Studio 2015\Projects\CV_201211265\Debug\CV_201211265.exe
+  CV_201211265.vcxproj -> C:\Users\idjoo\Documents\Visual Studio 2015\Projects\CV_201211265\Debug\CV_201211265.pdb (Partial PDB)
